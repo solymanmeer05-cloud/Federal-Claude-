@@ -22,26 +22,24 @@ Hi [first name], Solyman from Platinum Education here. I tried to call about the
 
 Call the organisation's main or published number and ask for the person or team named in the email.
 
-> "Hi, my name's Solyman, I'm a student consultant at Platinum Education, an independent education consultancy. I emailed [name] last week about a part-time route into higher education for the adults you support. Is now a good time for two minutes?"
+> "Hi, my name's Solyman, I'm a student consultant at Platinum Education. I emailed [name] last week about helping adults who missed out on GCSEs or A-levels get onto university courses. Is now a good time for two minutes?"
 
 If yes:
 1. "Do you find the people you work with ever ask about getting qualifications while they keep working?"
-2. Listen. Then: "We help adults apply to courses at [provider]. They're for adults 21+, taught two days a week, and many don't need previous qualifications. Tuition can be paid through student finance for eligible students."
+2. Listen. Then: "We help adults 21+ onto over 400 university courses across the UK, studying two days a week. Many don't need formal qualifications, and tuition can be paid through student finance for eligible students."
 3. "The easiest way to help is sharing a poster or hosting a short info session. Anyone interested contacts us directly; we don't need any client details and we don't pay referral fees."
 4. "Would a 15-minute call with your team, or some posters, be more useful?"
 
 If no or not now: "No problem at all, thanks for your time." Note it and don't call again unless invited.
 
 **Voicemail**
-> "Hi [name], it's Solyman from Platinum Education, about a part-time route into higher education for adults you support. No rush; my number is [number]. Thanks."
+> "Hi [name], it's Solyman from Platinum Education, about helping adults you support get onto university courses. No rush; my number is [number]. Thanks."
 
 ---
 
 ## Phone script: calling someone who enquired
 
 > "Hi [first name], it's Solyman from Platinum Education. You asked about courses for adults; is now still a good time?"
-
-- Say at the start that Platinum Education is an independent consultancy, not the college, and that they can apply to the college directly if they prefer.
 
 - Ask what they're hoping to do and how many days they can study.
 - Explain courses, the two-day timetable and the entry interview.
@@ -57,7 +55,7 @@ If no or not now: "No problem at all, thanks for your time." Note it and don't c
 
 Use on your website, partner QR-code page and paper forms at info sessions.
 
-> Platinum Education (an independent education consultancy, [company number]) will use your details to respond to your enquiry about courses. We'll keep them for [period]. We'll only pass them to a course provider if you ask us to help you apply there. See our privacy notice: [link].
+> Platinum Education ([company number]) will use your details to respond to your enquiry about courses. We'll keep them for [period]. We'll only pass them to a course provider if you ask us to help you apply there. See our privacy notice: [link].
 >
 > ☐ I'm happy for Platinum Education to contact me by **phone**
 > ☐ I'm happy for Platinum Education to contact me by **text message**
@@ -71,4 +69,4 @@ Leave every box unticked by default.
 
 ## LinkedIn connection note (to partner staff only)
 
-> Hi [first name], I'm a student consultant at Platinum Education, an independent education consultancy, helping organisations like [Organisation] share a part-time route into higher education for adults. Would be good to connect.
+> Hi [first name], I'm a student consultant at Platinum Education, helping adults who missed out on GCSEs or A-levels get onto university courses. Would be good to connect.
