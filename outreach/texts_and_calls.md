@@ -55,7 +55,7 @@ If no or not now: "No problem at all, thanks for your time." Note it and don't c
 
 Use on your website, partner QR-code page and paper forms at info sessions.
 
-> Platinum Education ([company number]) will use your details to respond to your enquiry about courses. We'll keep them for [period]. We'll only pass them to a course provider if you ask us to help you apply there. See our privacy notice: [link].
+> Platinum Education ([company number]) will use your details to respond to your enquiry about courses. We'll keep them for [period]. We'll only pass them to a course provider if you ask us to help you apply there. See our privacy notice: www.ukplatinumservices.com/[privacy-page].
 >
 > ☐ I'm happy for Platinum Education to contact me by **phone**
 > ☐ I'm happy for Platinum Education to contact me by **text message**

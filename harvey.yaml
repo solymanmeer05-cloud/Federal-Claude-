@@ -10,7 +10,7 @@ persona:
   name: "Solyman"
   company: "Platinum Education"
   role: "Student Consultant"
-  email: "solyman@your-platinum-education-domain.example"   # your real work address
+  email: "Solyman@ukplatinumservices.com"
   linkedin: ""
   tone: "warm, plain-spoken, helpful, community-minded; never salesy"
 
@@ -150,6 +150,7 @@ channels:
     provider: "gmail"          # gmail (recommended) | microsoft | smtp | instantly
     max_daily_sends: 40
     require_approval: true      # native: review in Outbox; Instantly: sending held
+    link_domains: ["ukplatinumservices.com"]
     # link_domains: ["mainsite.com"]   # your own sites besides the sending
     #                                  # domain and booking link; on autopilot,
     #                                  # an email linking elsewhere waits for you

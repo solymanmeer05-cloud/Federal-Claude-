@@ -6,7 +6,7 @@ Short answers to common replies. Harvey drafts its own from these; every reply w
 Thanks [First name]. Would [day] at [time] or [day] at [time] suit for a 15-minute call? I'll explain how we help people and what courses there are.
 
 **"Can you just send information?"**
-Of course. I've attached a short summary and a poster. Anyone interested can contact me directly on [phone] or [email].
+Of course. I've attached a short summary and a poster. Anyone interested can contact me directly on [phone] or Solyman@ukplatinumservices.com.
 
 **"Who are you exactly?"**
 Platinum Education is an education consultancy. We help adults who didn't get the GCSEs or A-levels they wanted get onto university courses. There are over 400 courses across the UK with multiple awarding bodies.

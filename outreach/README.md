@@ -18,7 +18,7 @@ Harvey doesn't contact members of the public. People come to you when a partner 
 
 ## To get started
 
-1. Put your real work email in `persona.email` in `harvey.yaml`, and Platinum Education's company details in `compliance.postal_address`.
+1. Put Platinum Education's company details in `compliance.postal_address` in `harvey.yaml` (your email and website are already set).
 2. Run `harvey setup` to connect your mailbox and an email checker. Say yes to the Precleared check.
 3. Confirm signals (`harvey signals --confirm free`), then `harvey discover --estimate` and `harvey discover`.
 4. `harvey run`, then approve emails in the dashboard Outbox.

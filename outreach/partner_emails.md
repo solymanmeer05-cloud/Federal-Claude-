@@ -7,7 +7,7 @@ Signature:
 ```
 Solyman
 Student Consultant, Platinum Education
-[phone] · [website]
+[phone] · Solyman@ukplatinumservices.com · www.ukplatinumservices.com
 ```
 
 ---
