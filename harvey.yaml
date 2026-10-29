@@ -147,7 +147,7 @@ icp:
 channels:
   email:
     enabled: true
-    provider: "gmail"          # gmail (recommended) | microsoft | smtp | instantly
+    provider: "microsoft"      # gmail | microsoft | smtp | instantly
     max_daily_sends: 40
     require_approval: true      # native: review in Outbox; Instantly: sending held
     link_domains: ["ukplatinumservices.com"]

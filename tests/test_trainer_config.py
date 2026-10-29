@@ -127,7 +127,7 @@ def test_first_training_keeps_the_template_settings(tmp_path):
     path = tmp_path / "harvey.local.yaml"
     out = write_trained_config(LEARNED, path)
 
-    assert out["channels"]["email"]["provider"] == "gmail"
+    assert out["channels"]["email"]["provider"] == "microsoft"
     assert out["compliance"]["precleared"]["enabled"] is False
     assert out["persona"] == LEARNED["persona"]
     assert out["product"]["offer"]["goal"] == "book_call"

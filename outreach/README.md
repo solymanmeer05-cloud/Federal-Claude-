@@ -19,7 +19,7 @@ Harvey doesn't contact members of the public. People come to you when a partner 
 ## To get started
 
 1. Put Platinum Education's company details in `compliance.postal_address` in `harvey.yaml` (your email and website are already set).
-2. Run `harvey setup` to connect your mailbox and an email checker. Say yes to the Precleared check.
+2. Connect your Outlook / Microsoft 365 mailbox (see `docs/microsoft365.md`): register the Harvey app, put `M365_CLIENT_ID` and `M365_TENANT_ID` in `.env`, then run `harvey microsoft auth` and `harvey microsoft test`. Add an email checker key (e.g. `REOON_API_KEY`) and say yes to the Precleared check in `harvey setup`.
 3. Confirm signals (`harvey signals --confirm free`), then `harvey discover --estimate` and `harvey discover`.
 4. `harvey run`, then approve emails in the dashboard Outbox.
 
