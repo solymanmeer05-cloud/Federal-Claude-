@@ -22,6 +22,7 @@ When an agent runs, it calls `brain.load_skills_for_agent("agent_name")` which c
 | `product_knowledge.md` | x | x | x | x | x |
 | `competitive_intel.md` | | x | x | | |
 | `selling_to_startups.md` | | x* | x* | | |
+| `uk_adult_learner_courses.md` | x | x | x | x | |
 
 \* Only for prospects whose company is a startup by its own site's account (the `YC_BACKED` or `ACCELERATOR` signal, or a `FUNDING_ROUND` from the last 18 months), not loaded for everyone.
 
@@ -37,6 +38,7 @@ When an agent runs, it calls `brain.load_skills_for_agent("agent_name")` which c
 - **`offer_strategy.md`** — Offer ladder by engagement level, closing mechanics, timing rules
 - **`objection_handling.md`** — LAARC framework, 4 objection categories with responses
 - **`linkedin_outreach.md`** — Connection sequences, messaging templates, rate limits
+- **`uk_adult_learner_courses.md`** — UK partner outreach for adult (21+) courses funded through student finance: what may and may not be claimed, recruitment rules, and the angle for each kind of partner organisation
 
 ## Auto-Generated Skills
 

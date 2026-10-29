@@ -1064,6 +1064,12 @@ class OpenStreetMap(DiscoveryProvider):
         "attorney": ['office=lawyer'],
         "contractor": ['craft=builder', 'office=construction_company'],
         "landscap": ['craft=gardener', 'shop=garden_centre'],
+        # Community organisations, for partner outreach rather than trades.
+        "community cent": ['amenity=community_centre'],
+        "library": ['amenity=library'],
+        "charity": ['office=charity', 'office=ngo'],
+        "food bank": ['social_facility=food_bank'],
+        "employment agency": ['office=employment_agency'],
     }
 
     def _tags(self, term: str) -> list[str]:

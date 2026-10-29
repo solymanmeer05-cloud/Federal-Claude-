@@ -1,54 +1,157 @@
+# Adapted for UK partner outreach: Harvey writes to organisations that
+# already support adults aged 21+ (housing associations, councils, charities,
+# employment services, community centres, libraries, employers) so they can
+# tell the people they work with about part-time, student-finance-funded
+# courses. Harvey never contacts members of the public directly.
+#
+# Fill in every "Your ..." value before running. Harvey refuses to start while
+# persona.company is still "Your Company". Outreach must be sent by the course
+# provider's own staff: see skills/uk_adult_learner_courses.md.
 persona:
-  name: "Harvey"
-  company: "Your Company"
-  role: "Business Development"
-  email: "harvey@yourcompany.com"
-  linkedin: "linkedin.com/in/harvey-yourcompany"
-  tone: "professional, consultative, confident"
+  name: "Your Name"
+  company: "Your Company"          # the course provider (college/university/partner provider)
+  role: "Community Partnerships Officer"
+  email: "partnerships@yourcollege.example"
+  linkedin: ""
+  tone: "warm, plain-spoken, helpful, community-minded; never salesy"
 
 product:
-  name: "Your Product"
-  description: "Describe what your product does and who it's for"
-  pricing: "Starting at $X/mo"
+  name: "Part-time funded degree courses for adults"
+  description: >-
+    Higher education courses for adults aged 21 and over across the UK, taught
+    two days a week so students can keep working. Many courses need no formal
+    qualifications to start (entry is by interview and assessment). Eligible
+    students can pay tuition through student finance, and may also be able to
+    get a maintenance loan. Partner organisations refer people they support;
+    the provider handles every enquiry, check and application itself.
+  pricing: >-
+    Tuition is paid through student finance for eligible students: a loan,
+    repaid only once earnings pass the threshold for the student's loan plan.
+    Never describe it as free or a grant.
   key_benefits:
-    - "Benefit 1"
-    - "Benefit 2"
-    - "Benefit 3"
+    - "Study two days a week and keep working the rest of the week"
+    - "Many courses need no previous qualifications; mature applicants (21+) are assessed on interview"
+    - "Tuition paid through student finance for eligible students, repaid only when earning above the threshold"
+    - "Many subjects to choose from, e.g. business, health and social care, computing, psychology, construction management"
+    - "Partners get a ready-made pack (poster, social posts, newsletter text) and a named contact; no cost to the partner"
   objection_responses:
-    "too expensive": "I understand budget is important. Most of our clients see ROI within 30 days..."
-    "already have a solution": "That makes sense. Curious — what's the one thing you wish it did better?"
-    "not interested": "No worries at all. Mind if I ask what your current approach looks like?"
+    "is this a scam / too good to be true": "Fair question, given how this sector has been marketed. We're the provider ourselves, not an agent. Students apply through the official student finance service, and we'd never ask your clients for money or bank details."
+    "do you pay referral fees": "No. We don't pay for referrals, and we don't offer people incentives to enrol. Partners simply share information, and anyone interested talks to us directly."
+    "our clients aren't academic": "That's exactly who the courses are built for. Most students are working adults who left school without qualifications, and support with study skills is part of the course."
+    "we don't promote external organisations": "Understood. Some partners prefer just to keep a few leaflets at reception, or to hear about it themselves first in a 15-minute call. Would either suit?"
+    "not interested": "No problem at all, thanks for letting me know. I won't email again."
   offer:
-    primary: ""                    # Main offer (e.g., "Monthly subscription starting at $99/mo")
-    entry: ""                      # Low-commitment entry (e.g., "14-day free trial", "Free audit")
-    goal: "book_call"              # Goal of outreach: book_call, start_trial, get_reply
-    booking_method: "calendar_link" # calendar_link, suggest_times, ask_preference
-    booking_url: ""                # Calendar link URL (if using calendar_link method)
-    meeting_duration: "15 minutes" # How long the call is
-    meeting_owner: ""              # Who takes the meeting (name or role)
+    primary: "A partner referral route: you share course information, interested people contact us directly"
+    entry: "A 15-minute call or a short info session for your staff or members (online or in person)"
+    goal: "book_call"
+    booking_method: "suggest_times"
+    booking_url: ""
+    meeting_duration: "15 minutes"
+    meeting_owner: "Community Partnerships Officer"
 
 icp:
+  # Each industry is a search term in every city below. The first four also
+  # work on the free OpenStreetMap source; the rest need a web/listings source.
   industries:
-    - "SaaS"
-    - "Marketing Agency"
-  company_size: "10-200 employees"
+    - "community centre"
+    - "library"
+    - "charity"
+    - "food bank"
+    - "employment agency"
+    - "housing association"
+    - "employability support"
+    - "adult learning service"
+    - "citizens advice"
+    - "carers centre"
+    - "veterans charity"
+    - "volunteer centre"
+  company_size: "any size"
   titles:
-    - "VP Marketing"
-    - "Head of Growth"
-    - "CMO"
-    - "Director of Marketing"
+    - "Employment and Skills Manager"
+    - "Community Investment Manager"
+    - "Partnerships Manager"
+    - "Employability Coordinator"
+    - "Tenancy Sustainment Officer"
+    - "Centre Manager"
+    - "Community Development Officer"
+    - "Volunteer Coordinator"
+    - "Library Manager"
+    - "Learning and Development Manager"
+    - "Chief Executive"
   geography:
-    - "United States"
-  # Roles that signal a company is in-market RIGHT NOW (a company hiring a
-  # "Head of Growth" is shopping for growth tooling). Used for careers-page
-  # scanning and job-board discovery. Empty = fall back to titles above.
-  hiring_signals: []
+    - "London"
+    - "Birmingham"
+    - "Manchester"
+    - "Leeds"
+    - "Liverpool"
+    - "Sheffield"
+    - "Bristol"
+    - "Newcastle upon Tyne"
+    - "Nottingham"
+    - "Leicester"
+    - "Coventry"
+    - "Bradford"
+    - "Stoke-on-Trent"
+    - "Southampton"
+    - "Plymouth"
+    - "Norwich"
+    - "Hull"
+    - "Middlesbrough"
+    - "Luton"
+    - "Peterborough"
+    - "Glasgow"
+    - "Edinburgh"
+    - "Aberdeen"
+    - "Dundee"
+    - "Cardiff"
+    - "Swansea"
+    - "Newport"
+    - "Belfast"
+    - "Derry"
+  # lat,lng,radius_km for each city: the free OpenStreetMap source needs a radius.
+  geo_coordinates:
+    "London": "51.5074,-0.1278,25"
+    "Birmingham": "52.4862,-1.8904,15"
+    "Manchester": "53.4808,-2.2426,15"
+    "Leeds": "53.8008,-1.5491,15"
+    "Liverpool": "53.4084,-2.9916,15"
+    "Sheffield": "53.3811,-1.4701,15"
+    "Bristol": "51.4545,-2.5879,15"
+    "Newcastle upon Tyne": "54.9783,-1.6178,15"
+    "Nottingham": "52.9548,-1.1581,15"
+    "Leicester": "52.6369,-1.1398,15"
+    "Coventry": "52.4068,-1.5197,15"
+    "Bradford": "53.7960,-1.7594,15"
+    "Stoke-on-Trent": "53.0027,-2.1794,15"
+    "Southampton": "50.9097,-1.4044,15"
+    "Plymouth": "50.3755,-4.1427,15"
+    "Norwich": "52.6309,1.2974,15"
+    "Hull": "53.7676,-0.3274,15"
+    "Middlesbrough": "54.5742,-1.2350,15"
+    "Luton": "51.8787,-0.4200,15"
+    "Peterborough": "52.5695,-0.2405,15"
+    "Glasgow": "55.8642,-4.2518,15"
+    "Edinburgh": "55.9533,-3.1883,15"
+    "Aberdeen": "57.1497,-2.0943,15"
+    "Dundee": "56.4620,-2.9707,15"
+    "Cardiff": "51.4816,-3.1791,15"
+    "Swansea": "51.6214,-3.9436,15"
+    "Newport": "51.5842,-2.9977,15"
+    "Belfast": "54.5973,-5.9301,15"
+    "Derry": "54.9966,-7.3086,15"
+  hiring_signals:
+    - "Employment Support Officer"
+    - "Employability Coordinator"
+    - "Skills Coach"
+  keyword_variants:
+    "housing association": ["housing association community investment", "social housing employment support"]
+    "employability support": ["back to work support", "employment support service"]
 
 channels:
   email:
     enabled: true
     provider: "gmail"          # gmail (recommended) | microsoft | smtp | instantly
-    max_daily_sends: 50
+    max_daily_sends: 40
     require_approval: true      # native: review in Outbox; Instantly: sending held
     # link_domains: ["mainsite.com"]   # your own sites besides the sending
     #                                  # domain and booking link; on autopilot,
@@ -75,11 +178,11 @@ channels:
     # Follow-ups move into the window; replies are never held. Quiet hours
     # then stop prospecting and writing, not mail that's due.
     # Gmail/Microsoft/SMTP only. Remove the # marks to switch it on.
-    # send_window:
-    #   start: "08:00"
-    #   end: "17:00"
-    #   weekdays_only: true      # Monday to Friday, in every country
-    #   recipient_timezone: true  # false: one zone for everyone (quiet_hours.timezone)
+    send_window:
+      start: "09:00"
+      end: "16:30"
+      weekdays_only: true
+      recipient_timezone: true
   linkedin:
     enabled: false             # explicit opt-in; credentials alone do not enable it
     max_daily_connections: 20
@@ -91,7 +194,7 @@ usage:
   quiet_hours:
     start: "22:00"
     end: "07:00"
-    timezone: "America/New_York"
+    timezone: "Europe/London"
 
 # Optional: check each new recipient with Precleared (precleared.dev) before
 # the first cold email: may cold marketing email go to this address under UK
@@ -103,12 +206,11 @@ usage:
 # only when it can't tell the country from the address, company records or the
 # company's website.
 compliance:
-  # Added under every cold email (never replies). US law (CAN-SPAM) requires a
-  # postal address you receive mail at: a street address, PO box or virtual
-  # mailbox. Until it's set, cold email still sends, with a warning.
+  # Added under every cold email (never replies). For a UK limited company or
+  # charity, include the registered name, number and registered office here.
   postal_address: ""
   # Keep wording Harvey recognises as an opt-out ("no thanks", "unsubscribe").
-  opt_out_line: 'Not interested? Reply "no thanks" and I won''t email again.'
+  opt_out_line: 'If this isn''t relevant to you, reply "no thanks" and I won''t email again.'
   # Never email these, cold or in reply: competitors, your existing customers,
   # anyone under a legal hold. An entry is an address or a domain, and a domain
   # covers its subdomains ("acme.example" also blocks "mail.acme.example", but

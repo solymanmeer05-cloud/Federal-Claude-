@@ -1056,6 +1056,18 @@ async def test_osm_maps_the_trades_it_does_know():
 
 
 @pytest.mark.asyncio
+async def test_osm_maps_community_partner_organisations():
+    provider = D.OpenStreetMap()
+    assert provider._tags("community centre") == ["amenity=community_centre"]
+    assert provider._tags("library") == ["amenity=library"]
+    assert provider._tags("veterans charity") == ["office=charity", "office=ngo"]
+    assert provider._tags("food bank") == ["social_facility=food_bank"]
+    assert provider._tags("employment agency") == ["office=employment_agency"]
+    # A community-investment team is not a community centre.
+    assert provider._tags("housing association community investment") == []
+
+
+@pytest.mark.asyncio
 async def test_an_unmappable_term_is_reported_not_silently_skipped(
         state, config, register, monkeypatch):
     """The run must surface why a query produced nothing."""
