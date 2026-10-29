@@ -14,7 +14,11 @@ Of course. The attached one-pager covers the courses, who they're for and how pe
 
 **"Is this legitimate? We've seen dodgy outfits recruiting for these courses."**
 
-Fair question, and I'm glad you asked. I work for [Provider] directly; we're not an agent. Our courses are [validated by / delivered with] [University]. Students apply through the official student finance service, and we never ask anyone for money or bank details. Happy to send our registration details or speak on a call so you can check us out.
+Fair question, and I'm glad you asked. I'm a student consultant at Platinum Education, an independent education consultancy, so I'm not from the college itself. We help adults apply to courses at [provider(s) we have agreements with], [validated by / delivered with] [University]. Students apply for student finance themselves through the official service, and we never ask anyone for money or bank details. Happy to send our company details, or you can check the course on the provider's own website.
+
+**"Are you an agent? How do you get paid?"**
+
+Yes, we're an independent consultancy rather than the college. [Fill in exactly how Platinum Education is paid, e.g. "The course providers we work with pay us; students never pay us anything."] Whatever someone decides, they're welcome to apply to the provider directly instead.
 
 **"Do you pay for referrals?"**
 
@@ -22,7 +26,7 @@ No. We don't pay referral fees, and we don't offer students incentives to enrol.
 
 **"Can we send you a list of interested clients?"**
 
-Thanks, but please don't send anyone's details on their behalf. It's simpler and safer for people to contact us themselves at [contact]. If someone wants you to pass on their details, they can fill in our consent form ([link]) and you can send that.
+Thanks, but please don't send anyone's details on their behalf. It's simpler and safer for people to contact us themselves at [contact] (or the provider directly, if they prefer). If someone wants you to pass on their details, they can fill in our consent form ([link]) and you can send that.
 
 **"Our clients are on benefits. Will studying affect them?"**
 

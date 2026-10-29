@@ -1,6 +1,6 @@
 # Partner Toolkit
 
-Texts to give partner organisations once they agree to help, so they can share accurate information with the people they support. Send it after the first call. Have your provider's marketing or compliance lead approve every piece before it goes out.
+Texts to give partner organisations once they agree to help, so they can share accurate information with the people they support. Send it after the first call. Get each course provider you name to approve any piece that mentions them before it goes out; many providers have rules about how agents describe their courses.
 
 Replace everything in [square brackets]. Keep the student finance wording exactly as written.
 
@@ -17,7 +17,7 @@ Study two days a week · Many courses need no previous qualifications
 Tuition can be paid through student finance for eligible students. You repay only once you earn above the threshold.
 
 Talk to us: [phone] · [web address] · [QR code]
-[Provider name and logo]
+Platinum Education · Independent education consultancy, helping adults apply to courses at [provider(s)]
 
 ---
 
@@ -27,7 +27,7 @@ Talk to us: [phone] · [web address] · [QR code]
 
 Go further, without giving up work.
 
-[Provider] runs higher education courses for adults aged 21 and over, taught two days a week. Many courses need no formal qualifications: you'll have an informal interview and a short assessment instead.
+Platinum Education is an independent education consultancy. We help adults aged 21 and over find and apply for higher education courses at [provider(s)], taught two days a week. Many courses need no formal qualifications: the college holds an informal interview and a short assessment instead.
 
 **Side 2**
 
@@ -38,7 +38,7 @@ Eligible students can get a tuition fee loan through student finance, so there's
 [List]
 
 **What happens next?**
-Contact us for an informal chat. We'll check which courses suit you and help you understand the application. We will never ask you for money or bank details.
+Contact Solyman at Platinum Education for an informal chat. We'll look at which courses suit you and explain the application. You can also apply to the college directly. We will never ask you for money or bank details.
 
 [Phone] · [Email] · [Web address]
 
@@ -50,7 +50,7 @@ Use on the partner's own Facebook page, Instagram, X or community WhatsApp group
 
 **Post 1 (Facebook / Instagram)**
 Fancy studying for a degree-level qualification without giving up work? 📚
-[Provider] runs courses for adults 21+, taught two days a week, and many need no previous qualifications. Tuition can be paid through student finance for eligible students.
+Platinum Education helps adults 21+ apply for courses at [provider], taught two days a week, and many need no previous qualifications. Tuition can be paid through student finance for eligible students.
 Find out more: [link]
 
 **Post 2 (short)**
@@ -65,12 +65,13 @@ Come and ask about courses for adults 21+, taught two days a week. No booking ne
 ## Newsletter paragraph
 
 **A route into higher education for adults**
-[Provider] runs degree-level courses for adults aged 21 and over, taught two days a week so students can keep working. Many courses don't need previous qualifications, and eligible students can pay tuition through student finance, repaid only once they earn above the threshold. To find out more, contact [Provider] at [contact] or visit [link].
+Platinum Education, an independent education consultancy, helps adults aged 21 and over apply for degree-level courses at [provider], taught two days a week so students can keep working. Many courses don't need previous qualifications, and eligible students can pay tuition through student finance, repaid only once they earn above the threshold. To find out more, contact Solyman at Platinum Education on [contact] or visit [link].
 
 ---
 
 ## Staff briefing note (for partner staff)
 
+- Who we are: Platinum Education is an independent education consultancy, not the college.
 - Who it's for: adults 21+, especially people in work who want to progress.
 - What to say: "There's a part-time route into higher education you might be interested in; here's their number."
 - What not to say: that it's free, that everyone gets in, or anything about benefits. Benefits questions go to the work coach or Citizens Advice.

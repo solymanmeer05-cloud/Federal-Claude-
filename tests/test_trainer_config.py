@@ -120,7 +120,9 @@ def test_first_training_keeps_the_template_settings(tmp_path):
     # Precleared block) carry over, and the untrained placeholder persona
     # is replaced with what training learned.
     template = tmp_path / "harvey.yaml"
-    shipped = (PROJECT_ROOT / "harvey.yaml").read_text()
+    # This fork ships a filled-in persona, so put the placeholder back.
+    shipped = (PROJECT_ROOT / "harvey.yaml").read_text().replace(
+        'company: "Platinum Education"', 'company: "Your Company"')
     template.write_text(shipped)
     path = tmp_path / "harvey.local.yaml"
     out = write_trained_config(LEARNED, path)

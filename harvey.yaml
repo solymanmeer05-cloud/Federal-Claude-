@@ -4,26 +4,29 @@
 # tell the people they work with about part-time, student-finance-funded
 # courses. Harvey never contacts members of the public directly.
 #
-# Fill in every "Your ..." value before running. Harvey refuses to start while
-# persona.company is still "Your Company". Outreach must be sent by the course
-# provider's own staff: see skills/uk_adult_learner_courses.md.
+# Sent by Solyman, a student consultant at Platinum Education, an independent
+# education consultancy. Every email says so plainly: Harvey never presents
+# Platinum Education as a college, university or the course provider. See
+# skills/uk_adult_learner_courses.md and outreach/README.md before running.
 persona:
-  name: "Your Name"
-  company: "Your Company"          # the course provider (college/university/partner provider)
-  role: "Community Partnerships Officer"
-  email: "partnerships@yourcollege.example"
+  name: "Solyman"
+  company: "Platinum Education"
+  role: "Student Consultant"
+  email: "solyman@your-platinum-education-domain.example"   # your real work address
   linkedin: ""
   tone: "warm, plain-spoken, helpful, community-minded; never salesy"
 
 product:
-  name: "Part-time funded degree courses for adults"
+  name: "Help applying for part-time funded higher education courses"
   description: >-
-    Higher education courses for adults aged 21 and over across the UK, taught
+    Platinum Education is an independent education consultancy, not a college
+    or university. We help adults aged 21 and over across the UK find and apply
+    for higher education courses at the course providers we work with, taught
     two days a week so students can keep working. Many courses need no formal
-    qualifications to start (entry is by interview and assessment). Eligible
-    students can pay tuition through student finance, and may also be able to
-    get a maintenance loan. Partner organisations refer people they support;
-    the provider handles every enquiry, check and application itself.
+    qualifications to start (the provider decides entry by interview and
+    assessment). Eligible students can pay tuition through student finance and
+    may also get a maintenance loan. Partner organisations share information;
+    interested people contact Platinum Education themselves.
   pricing: >-
     Tuition is paid through student finance for eligible students: a loan,
     repaid only once earnings pass the threshold for the student's loan plan.
@@ -35,8 +38,9 @@ product:
     - "Many subjects to choose from, e.g. business, health and social care, computing, psychology, construction management"
     - "Partners get a ready-made pack (poster, social posts, newsletter text) and a named contact; no cost to the partner"
   objection_responses:
-    "is this a scam / too good to be true": "Fair question, given how this sector has been marketed. We're the provider ourselves, not an agent. Students apply through the official student finance service, and we'd never ask your clients for money or bank details."
+    "is this a scam / too good to be true": "Fair question, given how this sector has been marketed. I'm a consultant at Platinum Education, an independent consultancy that helps adults apply to courses at the providers we work with. We're not the college ourselves, and I'm happy to name them and send our details so you can check us out. Students apply for student finance through the official service, and we'd never ask your clients for money or bank details."
     "do you pay referral fees": "No. We don't pay for referrals, and we don't offer people incentives to enrol. Partners simply share information, and anyone interested talks to us directly."
+    "how are you paid / are you an agent": "Yes, we're an independent consultancy rather than the college. Answer exactly as Platinum Education's own terms say (who pays us and when); never guess, and never say we're the provider."
     "our clients aren't academic": "That's exactly who the courses are built for. Most students are working adults who left school without qualifications, and support with study skills is part of the course."
     "we don't promote external organisations": "Understood. Some partners prefer just to keep a few leaflets at reception, or to hear about it themselves first in a 15-minute call. Would either suit?"
     "not interested": "No problem at all, thanks for letting me know. I won't email again."
@@ -47,7 +51,7 @@ product:
     booking_method: "suggest_times"
     booking_url: ""
     meeting_duration: "15 minutes"
-    meeting_owner: "Community Partnerships Officer"
+    meeting_owner: "Solyman"
 
 icp:
   # Each industry is a search term in every city below. The first four also
